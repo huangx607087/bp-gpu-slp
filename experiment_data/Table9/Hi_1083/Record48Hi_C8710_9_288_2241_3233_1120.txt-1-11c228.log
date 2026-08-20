@@ -1,0 +1,459 @@
+Last Time Cost: 00000000 ms
+Total Time Cost: 00000000 ms
+Total Distance 240: 6 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 6 8 8 4 4 4 4
+Last Time Cost: 00000015 ms
+Total Time Cost: 00000015 ms
+Total Distance 234: 5 4 4 4 4 6 8 8 4 4 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 4 4 3 4 6 4 4 4 4 5 8 8 4 4 3 4
+Last Time Cost: 00000012 ms
+Total Time Cost: 00000027 ms
+Total Distance 232: 5 4 4 4 4 6 8 8 4 4 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 4 4 2 4 6 4 4 4 4 5 8 8 4 3 3 4
+Last Time Cost: 00000012 ms
+Total Time Cost: 00000039 ms
+Total Distance 231: 5 4 4 4 4 6 8 8 4 4 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 4 4 1 4 6 4 4 4 4 5 8 8 4 3 3 4
+Last Time Cost: 00000012 ms
+Total Time Cost: 00000051 ms
+Total Distance 230: 5 4 4 4 4 6 8 8 4 4 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 4 4 0 4 6 4 4 4 4 5 8 8 4 3 3 4
+Last Time Cost: 00000014 ms
+Total Time Cost: 00000065 ms
+Total Distance 228: 5 4 4 4 4 6 8 8 4 3 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 4 4 0 4 6 4 4 4 4 5 8 8 4 3 2 4
+Last Time Cost: 00000015 ms
+Total Time Cost: 00000080 ms
+Total Distance 227: 5 4 4 4 4 6 8 8 4 3 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 4 4 0 4 6 4 4 4 4 5 8 8 4 3 1 4
+Last Time Cost: 00000017 ms
+Total Time Cost: 00000097 ms
+Total Distance 226: 5 4 4 4 4 6 8 8 4 3 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 4 4 0 4 6 4 4 4 4 5 8 8 4 3 0 4
+Last Time Cost: 00000018 ms
+Total Time Cost: 00000115 ms
+Total Distance 224: 5 4 4 4 4 6 8 8 4 2 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 4 4 0 4 6 4 4 4 4 5 8 8 3 3 0 4
+Last Time Cost: 00000020 ms
+Total Time Cost: 00000135 ms
+Total Distance 223: 5 4 4 4 4 6 8 8 4 1 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 4 4 0 4 6 4 4 4 4 5 8 8 3 3 0 4
+Last Time Cost: 00000021 ms
+Total Time Cost: 00000156 ms
+Total Distance 222: 5 4 4 4 4 6 8 8 4 0 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 4 4 0 4 6 4 4 4 4 5 8 8 3 3 0 4
+Last Time Cost: 00000023 ms
+Total Time Cost: 00000179 ms
+Total Distance 220: 5 4 4 4 4 6 8 8 4 0 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 3 4 0 4 6 4 4 4 4 5 8 8 3 2 0 4
+Last Time Cost: 00000024 ms
+Total Time Cost: 00000203 ms
+Total Distance 219: 5 4 4 4 4 6 8 8 4 0 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 3 4 0 4 6 4 4 4 4 5 8 8 3 1 0 4
+Last Time Cost: 00000026 ms
+Total Time Cost: 00000229 ms
+Total Distance 218: 5 4 4 4 4 6 8 8 4 0 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 3 4 0 4 6 4 4 4 4 5 8 8 3 0 0 4
+Last Time Cost: 00000027 ms
+Total Time Cost: 00000256 ms
+Total Distance 216: 5 4 4 4 4 6 8 8 4 0 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 2 4 0 4 6 4 4 4 4 5 8 7 3 0 0 4
+Last Time Cost: 00000029 ms
+Total Time Cost: 00000285 ms
+Total Distance 215: 5 4 4 4 4 6 8 8 4 0 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 1 4 0 4 6 4 4 4 4 5 8 7 3 0 0 4
+Last Time Cost: 00000031 ms
+Total Time Cost: 00000316 ms
+Total Distance 214: 5 4 4 4 4 6 8 8 4 0 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 0 4 0 4 6 4 4 4 4 5 8 7 3 0 0 4
+Last Time Cost: 00000035 ms
+Total Time Cost: 00000351 ms
+Total Distance 212: 5 4 4 4 4 6 8 7 4 0 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 0 4 0 4 6 4 4 4 4 5 8 7 2 0 0 4
+Last Time Cost: 00000035 ms
+Total Time Cost: 00000386 ms
+Total Distance 211: 5 4 4 4 4 6 8 7 4 0 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 0 4 0 4 6 4 4 4 4 5 8 7 1 0 0 4
+Last Time Cost: 00000037 ms
+Total Time Cost: 00000423 ms
+Total Distance 210: 5 4 4 4 4 6 8 7 4 0 4 4 5 4 4 4 4 6 8 8 4 4 4 4 6 4 4 4 4 5 8 8 0 4 0 4 6 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000044 ms
+Total Time Cost: 00000467 ms
+Total Distance 204: 5 4 4 4 4 5 8 7 4 0 3 4 5 4 4 4 4 5 8 8 4 4 3 4 5 4 4 4 4 5 8 8 0 4 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000043 ms
+Total Time Cost: 00000510 ms
+Total Distance 202: 5 4 4 4 4 5 8 7 4 0 2 4 5 4 4 4 4 5 8 8 4 3 3 4 5 4 4 4 4 5 8 8 0 4 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000046 ms
+Total Time Cost: 00000556 ms
+Total Distance 201: 5 4 4 4 4 5 8 7 4 0 1 4 5 4 4 4 4 5 8 8 4 3 3 4 5 4 4 4 4 5 8 8 0 4 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000049 ms
+Total Time Cost: 00000605 ms
+Total Distance 200: 5 4 4 4 4 5 8 7 4 0 0 4 5 4 4 4 4 5 8 8 4 3 3 4 5 4 4 4 4 5 8 8 0 4 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000052 ms
+Total Time Cost: 00000657 ms
+Total Distance 198: 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 4 2 3 4 5 4 4 4 4 5 8 8 0 4 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000055 ms
+Total Time Cost: 00000712 ms
+Total Distance 197: 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 4 1 3 4 5 4 4 4 4 5 8 8 0 4 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000056 ms
+Total Time Cost: 00000768 ms
+Total Distance 196: 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 4 0 3 4 5 4 4 4 4 5 8 8 0 4 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000061 ms
+Total Time Cost: 00000829 ms
+Total Distance 194: 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 4 0 2 4 5 4 4 4 4 5 8 8 0 3 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000064 ms
+Total Time Cost: 00000893 ms
+Total Distance 193: 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 4 0 1 4 5 4 4 4 4 5 8 8 0 3 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000068 ms
+Total Time Cost: 00000961 ms
+Total Distance 192: 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 4 0 0 4 5 4 4 4 4 5 8 8 0 3 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000071 ms
+Total Time Cost: 00001032 ms
+Total Distance 190: 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 3 0 0 4 5 4 4 4 4 5 8 8 0 2 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000076 ms
+Total Time Cost: 00001108 ms
+Total Distance 189: 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 3 0 0 4 5 4 4 4 4 5 8 8 0 1 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000079 ms
+Total Time Cost: 00001187 ms
+Total Distance 188: 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 3 0 0 4 5 4 4 4 4 5 8 8 0 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000084 ms
+Total Time Cost: 00001271 ms
+Total Distance 186: 5 4 4 4 4 5 8 7 2 0 0 4 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 0 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000088 ms
+Total Time Cost: 00001359 ms
+Total Distance 185: 5 4 4 4 4 5 8 7 1 0 0 4 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 0 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000091 ms
+Total Time Cost: 00001450 ms
+Total Distance 184: 5 4 4 4 4 5 8 7 0 0 0 4 5 4 4 4 4 5 8 7 3 0 0 4 5 4 4 4 4 5 8 8 0 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000098 ms
+Total Time Cost: 00001548 ms
+Total Distance 182: 5 4 4 4 4 5 8 7 0 0 0 4 5 4 4 4 4 5 8 7 2 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000102 ms
+Total Time Cost: 00001650 ms
+Total Distance 181: 5 4 4 4 4 5 8 7 0 0 0 4 5 4 4 4 4 5 8 7 1 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000106 ms
+Total Time Cost: 00001756 ms
+Total Distance 180: 5 4 4 4 4 5 8 7 0 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4
+Last Time Cost: 00000119 ms
+Total Time Cost: 00001875 ms
+Total Distance 174: 5 4 4 4 4 5 8 7 0 0 0 4 5 4 4 4 4 5 8 7 0 0 0 4 5 4 4 4 4 5 7 6 0 0 0 3 5 4 4 4 4 5 7 6 0 0 0 3
+Last Time Cost: 00000118 ms
+Total Time Cost: 00001993 ms
+Total Distance 169: 5 4 4 4 4 5 8 7 0 0 0 3 5 4 4 4 4 5 7 7 0 0 0 4 5 4 4 4 4 5 7 6 0 0 0 2 5 4 4 4 4 5 6 6 0 0 0 2
+Last Time Cost: 00000122 ms
+Total Time Cost: 00002115 ms
+Total Distance 164: 5 4 4 4 4 5 8 7 0 0 0 3 5 4 4 4 4 5 7 7 0 0 0 4 5 4 4 4 4 5 7 5 0 0 0 1 5 4 4 4 4 5 5 5 0 0 0 1
+Last Time Cost: 00000126 ms
+Total Time Cost: 00002241 ms
+Total Distance 163: 5 4 4 4 4 5 8 7 0 0 0 3 5 4 4 4 4 5 7 7 0 0 0 4 5 4 4 4 4 5 7 5 0 0 0 0 5 4 4 4 4 5 5 5 0 0 0 1
+Last Time Cost: 00000135 ms
+Total Time Cost: 00002376 ms
+Total Distance 162: 5 4 4 4 4 5 8 7 0 0 0 3 5 4 4 4 4 5 7 7 0 0 0 4 5 4 4 4 4 5 7 5 0 0 0 0 5 4 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000142 ms
+Total Time Cost: 00002518 ms
+Total Distance 156: 5 4 4 4 4 5 8 6 0 0 0 2 5 4 4 4 4 5 6 6 0 0 0 3 4 4 4 4 4 5 7 5 0 0 0 0 5 4 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000149 ms
+Total Time Cost: 00002667 ms
+Total Distance 150: 5 4 4 4 4 5 7 5 0 0 0 1 5 4 4 4 4 5 5 5 0 0 0 2 4 4 4 4 4 5 7 5 0 0 0 0 5 4 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000007 ms
+Total Time Cost: 00002674 ms
+Total Distance 149: 5 4 4 4 4 5 7 5 0 0 0 0 5 4 4 4 4 5 5 5 0 0 0 2 4 4 4 4 4 5 7 5 0 0 0 0 5 4 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000009 ms
+Total Time Cost: 00002683 ms
+Total Distance 146: 5 4 4 4 4 5 6 5 0 0 0 0 5 4 4 4 4 5 5 4 0 0 0 1 4 4 4 4 4 5 7 5 0 0 0 0 5 4 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000007 ms
+Total Time Cost: 00002690 ms
+Total Distance 145: 5 4 4 4 4 5 6 5 0 0 0 0 5 4 4 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 4 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000009 ms
+Total Time Cost: 00002699 ms
+Total Distance 142: 4 4 4 4 4 5 6 5 0 0 0 0 4 4 4 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 3 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000007 ms
+Total Time Cost: 00002706 ms
+Total Distance 140: 4 4 3 4 4 5 6 5 0 0 0 0 4 4 4 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 2 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000008 ms
+Total Time Cost: 00002714 ms
+Total Distance 139: 4 4 3 4 4 5 6 5 0 0 0 0 4 4 4 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 1 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000007 ms
+Total Time Cost: 00002721 ms
+Total Distance 138: 4 4 3 4 4 5 6 5 0 0 0 0 4 4 4 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000008 ms
+Total Time Cost: 00002729 ms
+Total Distance 136: 4 4 2 4 4 5 6 5 0 0 0 0 4 4 3 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000008 ms
+Total Time Cost: 00002737 ms
+Total Distance 135: 4 4 1 4 4 5 6 5 0 0 0 0 4 4 3 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000008 ms
+Total Time Cost: 00002745 ms
+Total Distance 134: 4 4 0 4 4 5 6 5 0 0 0 0 4 4 3 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000009 ms
+Total Time Cost: 00002754 ms
+Total Distance 132: 4 3 0 4 4 5 6 5 0 0 0 0 4 4 2 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000009 ms
+Total Time Cost: 00002763 ms
+Total Distance 131: 4 3 0 4 4 5 6 5 0 0 0 0 4 4 1 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000009 ms
+Total Time Cost: 00002772 ms
+Total Distance 130: 4 3 0 4 4 5 6 5 0 0 0 0 4 4 0 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000009 ms
+Total Time Cost: 00002781 ms
+Total Distance 128: 4 2 0 4 4 5 6 5 0 0 0 0 3 4 0 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000011 ms
+Total Time Cost: 00002792 ms
+Total Distance 127: 4 1 0 4 4 5 6 5 0 0 0 0 3 4 0 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000010 ms
+Total Time Cost: 00002802 ms
+Total Distance 126: 4 0 0 4 4 5 6 5 0 0 0 0 3 4 0 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000010 ms
+Total Time Cost: 00002812 ms
+Total Distance 124: 3 0 0 4 4 5 6 5 0 0 0 0 2 4 0 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000012 ms
+Total Time Cost: 00002824 ms
+Total Distance 123: 3 0 0 4 4 5 6 5 0 0 0 0 1 4 0 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000010 ms
+Total Time Cost: 00002834 ms
+Total Distance 121: 2 0 0 4 4 5 6 5 0 0 0 0 0 4 0 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000011 ms
+Total Time Cost: 00002845 ms
+Total Distance 120: 1 0 0 4 4 5 6 5 0 0 0 0 0 4 0 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000012 ms
+Total Time Cost: 00002857 ms
+Total Distance 119: 0 0 0 4 4 5 6 5 0 0 0 0 0 4 0 4 4 5 5 4 0 0 0 0 4 4 4 4 4 5 7 5 0 0 0 0 5 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000013 ms
+Total Time Cost: 00002870 ms
+Total Distance 115: 0 0 0 4 4 5 6 5 0 0 0 0 0 3 0 4 4 5 5 4 0 0 0 0 3 3 4 4 4 5 7 5 0 0 0 0 4 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000013 ms
+Total Time Cost: 00002883 ms
+Total Distance 113: 0 0 0 4 4 5 6 5 0 0 0 0 0 3 0 4 4 5 5 4 0 0 0 0 2 3 4 4 4 5 7 5 0 0 0 0 3 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000012 ms
+Total Time Cost: 00002895 ms
+Total Distance 112: 0 0 0 4 4 5 6 5 0 0 0 0 0 3 0 4 4 5 5 4 0 0 0 0 1 3 4 4 4 5 7 5 0 0 0 0 3 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000012 ms
+Total Time Cost: 00002907 ms
+Total Distance 111: 0 0 0 4 4 5 6 5 0 0 0 0 0 3 0 4 4 5 5 4 0 0 0 0 0 3 4 4 4 5 7 5 0 0 0 0 3 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000014 ms
+Total Time Cost: 00002921 ms
+Total Distance 108: 0 0 0 4 4 5 6 5 0 0 0 0 0 2 0 4 4 5 5 4 0 0 0 0 0 2 4 4 4 5 7 5 0 0 0 0 2 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000014 ms
+Total Time Cost: 00002935 ms
+Total Distance 107: 0 0 0 4 4 5 6 5 0 0 0 0 0 1 0 4 4 5 5 4 0 0 0 0 0 2 4 4 4 5 7 5 0 0 0 0 2 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000013 ms
+Total Time Cost: 00002948 ms
+Total Distance 106: 0 0 0 4 4 5 6 5 0 0 0 0 0 0 0 4 4 5 5 4 0 0 0 0 0 2 4 4 4 5 7 5 0 0 0 0 2 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000015 ms
+Total Time Cost: 00002963 ms
+Total Distance 105: 0 0 0 4 4 5 6 5 0 0 0 0 0 0 0 4 4 5 5 4 0 0 0 0 0 2 4 4 4 5 7 5 0 0 0 0 1 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000013 ms
+Total Time Cost: 00002976 ms
+Total Distance 104: 0 0 0 4 4 5 6 5 0 0 0 0 0 0 0 4 4 5 5 4 0 0 0 0 0 2 4 4 4 5 7 5 0 0 0 0 0 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000016 ms
+Total Time Cost: 00002992 ms
+Total Distance 103: 0 0 0 4 4 5 6 5 0 0 0 0 0 0 0 4 4 5 5 4 0 0 0 0 0 1 4 4 4 5 7 5 0 0 0 0 0 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000016 ms
+Total Time Cost: 00003008 ms
+Total Distance 102: 0 0 0 4 4 5 6 5 0 0 0 0 0 0 0 4 4 5 5 4 0 0 0 0 0 0 4 4 4 5 7 5 0 0 0 0 0 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000018 ms
+Total Time Cost: 00003026 ms
+Total Distance 99: 0 0 0 4 4 5 5 5 0 0 0 0 0 0 0 4 4 5 5 3 0 0 0 0 0 0 4 4 4 5 6 5 0 0 0 0 0 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000017 ms
+Total Time Cost: 00003043 ms
+Total Distance 97: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 2 0 0 0 0 0 0 4 4 4 5 6 5 0 0 0 0 0 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000018 ms
+Total Time Cost: 00003061 ms
+Total Distance 96: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 1 0 0 0 0 0 0 4 4 4 5 6 5 0 0 0 0 0 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000016 ms
+Total Time Cost: 00003077 ms
+Total Distance 95: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 4 4 4 5 6 5 0 0 0 0 0 0 4 4 4 5 5 5 0 0 0 0
+Last Time Cost: 00000018 ms
+Total Time Cost: 00003095 ms
+Total Distance 93: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 3 4 4 5 6 5 0 0 0 0 0 0 4 3 4 5 5 5 0 0 0 0
+Last Time Cost: 00000019 ms
+Total Time Cost: 00003114 ms
+Total Distance 91: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 3 3 4 5 6 5 0 0 0 0 0 0 4 2 4 5 5 5 0 0 0 0
+Last Time Cost: 00000018 ms
+Total Time Cost: 00003132 ms
+Total Distance 90: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 3 3 4 5 6 5 0 0 0 0 0 0 4 1 4 5 5 5 0 0 0 0
+Last Time Cost: 00000018 ms
+Total Time Cost: 00003150 ms
+Total Distance 89: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 3 3 4 5 6 5 0 0 0 0 0 0 4 0 4 5 5 5 0 0 0 0
+Last Time Cost: 00000019 ms
+Total Time Cost: 00003169 ms
+Total Distance 87: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 3 2 4 5 6 5 0 0 0 0 0 0 3 0 4 5 5 5 0 0 0 0
+Last Time Cost: 00000019 ms
+Total Time Cost: 00003188 ms
+Total Distance 86: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 3 1 4 5 6 5 0 0 0 0 0 0 3 0 4 5 5 5 0 0 0 0
+Last Time Cost: 00000019 ms
+Total Time Cost: 00003207 ms
+Total Distance 85: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 3 0 4 5 6 5 0 0 0 0 0 0 3 0 4 5 5 5 0 0 0 0
+Last Time Cost: 00000021 ms
+Total Time Cost: 00003228 ms
+Total Distance 84: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 3 0 4 5 6 5 0 0 0 0 0 0 2 0 4 5 5 5 0 0 0 0
+Last Time Cost: 00000021 ms
+Total Time Cost: 00003249 ms
+Total Distance 83: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 3 0 4 5 6 5 0 0 0 0 0 0 1 0 4 5 5 5 0 0 0 0
+Last Time Cost: 00000020 ms
+Total Time Cost: 00003269 ms
+Total Distance 82: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 3 0 4 5 6 5 0 0 0 0 0 0 0 0 4 5 5 5 0 0 0 0
+Last Time Cost: 00000022 ms
+Total Time Cost: 00003291 ms
+Total Distance 81: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 2 0 4 5 6 5 0 0 0 0 0 0 0 0 4 5 5 5 0 0 0 0
+Last Time Cost: 00000023 ms
+Total Time Cost: 00003314 ms
+Total Distance 80: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 1 0 4 5 6 5 0 0 0 0 0 0 0 0 4 5 5 5 0 0 0 0
+Last Time Cost: 00000022 ms
+Total Time Cost: 00003336 ms
+Total Distance 79: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 5 5 0 0 0 0 0 0 0 0 0 4 5 6 5 0 0 0 0 0 0 0 0 4 5 5 5 0 0 0 0
+Last Time Cost: 00000025 ms
+Total Time Cost: 00003361 ms
+Total Distance 76: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 4 5 0 0 0 0 0 0 0 0 0 3 5 6 5 0 0 0 0 0 0 0 0 3 5 5 5 0 0 0 0
+Last Time Cost: 00000024 ms
+Total Time Cost: 00003385 ms
+Total Distance 74: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 4 4 4 5 0 0 0 0 0 0 0 0 0 2 5 6 5 0 0 0 0 0 0 0 0 2 5 5 5 0 0 0 0
+Last Time Cost: 00000026 ms
+Total Time Cost: 00003411 ms
+Total Distance 72: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 3 4 4 5 0 0 0 0 0 0 0 0 0 1 5 6 5 0 0 0 0 0 0 0 0 2 5 5 5 0 0 0 0
+Last Time Cost: 00000023 ms
+Total Time Cost: 00003434 ms
+Total Distance 71: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 3 4 4 5 0 0 0 0 0 0 0 0 0 0 5 6 5 0 0 0 0 0 0 0 0 2 5 5 5 0 0 0 0
+Last Time Cost: 00000026 ms
+Total Time Cost: 00003460 ms
+Total Distance 70: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 3 4 4 5 0 0 0 0 0 0 0 0 0 0 5 6 5 0 0 0 0 0 0 0 0 1 5 5 5 0 0 0 0
+Last Time Cost: 00000025 ms
+Total Time Cost: 00003485 ms
+Total Distance 69: 0 0 0 4 4 5 4 5 0 0 0 0 0 0 0 3 4 4 5 0 0 0 0 0 0 0 0 0 0 5 6 5 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000026 ms
+Total Time Cost: 00003511 ms
+Total Distance 67: 0 0 0 3 4 5 4 5 0 0 0 0 0 0 0 2 4 4 5 0 0 0 0 0 0 0 0 0 0 5 6 5 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000026 ms
+Total Time Cost: 00003537 ms
+Total Distance 66: 0 0 0 3 4 5 4 5 0 0 0 0 0 0 0 1 4 4 5 0 0 0 0 0 0 0 0 0 0 5 6 5 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000025 ms
+Total Time Cost: 00003562 ms
+Total Distance 65: 0 0 0 3 4 5 4 5 0 0 0 0 0 0 0 0 4 4 5 0 0 0 0 0 0 0 0 0 0 5 6 5 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000029 ms
+Total Time Cost: 00003591 ms
+Total Distance 64: 0 0 0 2 4 5 4 5 0 0 0 0 0 0 0 0 4 4 5 0 0 0 0 0 0 0 0 0 0 5 6 5 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000028 ms
+Total Time Cost: 00003619 ms
+Total Distance 63: 0 0 0 1 4 5 4 5 0 0 0 0 0 0 0 0 4 4 5 0 0 0 0 0 0 0 0 0 0 5 6 5 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000031 ms
+Total Time Cost: 00003650 ms
+Total Distance 62: 0 0 0 0 4 5 4 5 0 0 0 0 0 0 0 0 4 4 5 0 0 0 0 0 0 0 0 0 0 5 6 5 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000029 ms
+Total Time Cost: 00003679 ms
+Total Distance 59: 0 0 0 0 4 4 4 5 0 0 0 0 0 0 0 0 4 3 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000033 ms
+Total Time Cost: 00003712 ms
+Total Distance 57: 0 0 0 0 4 3 4 5 0 0 0 0 0 0 0 0 4 2 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000034 ms
+Total Time Cost: 00003746 ms
+Total Distance 56: 0 0 0 0 4 3 4 5 0 0 0 0 0 0 0 0 4 1 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000030 ms
+Total Time Cost: 00003776 ms
+Total Distance 55: 0 0 0 0 4 3 4 5 0 0 0 0 0 0 0 0 4 0 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000033 ms
+Total Time Cost: 00003809 ms
+Total Distance 53: 0 0 0 0 4 2 4 5 0 0 0 0 0 0 0 0 3 0 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000033 ms
+Total Time Cost: 00003842 ms
+Total Distance 52: 0 0 0 0 4 1 4 5 0 0 0 0 0 0 0 0 3 0 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000033 ms
+Total Time Cost: 00003875 ms
+Total Distance 51: 0 0 0 0 4 0 4 5 0 0 0 0 0 0 0 0 3 0 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000036 ms
+Total Time Cost: 00003911 ms
+Total Distance 49: 0 0 0 0 3 0 4 5 0 0 0 0 0 0 0 0 2 0 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000037 ms
+Total Time Cost: 00003948 ms
+Total Distance 48: 0 0 0 0 3 0 4 5 0 0 0 0 0 0 0 0 1 0 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000035 ms
+Total Time Cost: 00003983 ms
+Total Distance 47: 0 0 0 0 3 0 4 5 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000037 ms
+Total Time Cost: 00004020 ms
+Total Distance 46: 0 0 0 0 2 0 4 5 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000038 ms
+Total Time Cost: 00004058 ms
+Total Distance 45: 0 0 0 0 1 0 4 5 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000036 ms
+Total Time Cost: 00004094 ms
+Total Distance 44: 0 0 0 0 0 0 4 5 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 5 6 4 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000038 ms
+Total Time Cost: 00004132 ms
+Total Distance 42: 0 0 0 0 0 0 4 5 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 5 6 3 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000038 ms
+Total Time Cost: 00004170 ms
+Total Distance 41: 0 0 0 0 0 0 4 5 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 5 6 2 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000039 ms
+Total Time Cost: 00004209 ms
+Total Distance 40: 0 0 0 0 0 0 4 5 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 5 6 1 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000038 ms
+Total Time Cost: 00004247 ms
+Total Distance 39: 0 0 0 0 0 0 4 5 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 5 6 0 0 0 0 0 0 0 0 0 0 5 5 5 0 0 0 0
+Last Time Cost: 00000041 ms
+Total Time Cost: 00004288 ms
+Total Distance 36: 0 0 0 0 0 0 4 5 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 4 6 0 0 0 0 0 0 0 0 0 0 4 5 5 0 0 0 0
+Last Time Cost: 00000041 ms
+Total Time Cost: 00004329 ms
+Total Distance 34: 0 0 0 0 0 0 3 5 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 4 6 0 0 0 0 0 0 0 0 0 0 4 5 5 0 0 0 0
+Last Time Cost: 00000043 ms
+Total Time Cost: 00004372 ms
+Total Distance 32: 0 0 0 0 0 0 3 5 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 3 6 0 0 0 0 0 0 0 0 0 0 4 5 5 0 0 0 0
+Last Time Cost: 00000042 ms
+Total Time Cost: 00004414 ms
+Total Distance 31: 0 0 0 0 0 0 3 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 6 0 0 0 0 0 0 0 0 0 0 4 5 5 0 0 0 0
+Last Time Cost: 00000045 ms
+Total Time Cost: 00004459 ms
+Total Distance 29: 0 0 0 0 0 0 2 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 6 0 0 0 0 0 0 0 0 0 0 3 5 5 0 0 0 0
+Last Time Cost: 00000044 ms
+Total Time Cost: 00004503 ms
+Total Distance 28: 0 0 0 0 0 0 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 6 0 0 0 0 0 0 0 0 0 0 3 5 5 0 0 0 0
+Last Time Cost: 00000042 ms
+Total Time Cost: 00004545 ms
+Total Distance 27: 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 6 0 0 0 0 0 0 0 0 0 0 3 5 5 0 0 0 0
+Last Time Cost: 00000046 ms
+Total Time Cost: 00004591 ms
+Total Distance 26: 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 0 0 0 0 0 0 0 0 0 0 3 5 5 0 0 0 0
+Last Time Cost: 00000046 ms
+Total Time Cost: 00004637 ms
+Total Distance 25: 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 6 0 0 0 0 0 0 0 0 0 0 3 5 5 0 0 0 0
+Last Time Cost: 00000047 ms
+Total Time Cost: 00004684 ms
+Total Distance 24: 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 3 5 5 0 0 0 0
+Last Time Cost: 00000050 ms
+Total Time Cost: 00004734 ms
+Total Distance 23: 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 2 5 5 0 0 0 0
+Last Time Cost: 00000050 ms
+Total Time Cost: 00004784 ms
+Total Distance 22: 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 1 5 5 0 0 0 0
+Last Time Cost: 00000048 ms
+Total Time Cost: 00004832 ms
+Total Distance 21: 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 5 5 0 0 0 0
+Last Time Cost: 00000077 ms
+Total Time Cost: 00004909 ms
+Total Distance 18: 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 4 4 0 0 0 0
+Last Time Cost: 00000002 ms
+Total Time Cost: 00004911 ms
+Total Distance 16: 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 4 3 0 0 0 0
+Last Time Cost: 00000003 ms
+Total Time Cost: 00004914 ms
+Total Distance 15: 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 4 2 0 0 0 0
+Last Time Cost: 00000003 ms
+Total Time Cost: 00004917 ms
+Total Distance 13: 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 4 1 0 0 0 0
+Last Time Cost: 00000001 ms
+Total Time Cost: 00004918 ms
+Total Distance 12: 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0
+Last Time Cost: 00000003 ms
+Total Time Cost: 00004921 ms
+Total Distance 10: 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0
+Last Time Cost: 00000002 ms
+Total Time Cost: 00004923 ms
+Total Distance 9: 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0
+Last Time Cost: 00000003 ms
+Total Time Cost: 00004926 ms
+Total Distance 8: 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0
+Last Time Cost: 00000002 ms
+Total Time Cost: 00004928 ms
+Total Distance 7: 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0
+Last Time Cost: 00000003 ms
+Total Time Cost: 00004931 ms
+Total Distance 6: 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0
+Last Time Cost: 00000003 ms
+Total Time Cost: 00004934 ms
+Total Distance 5: 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+Last Time Cost: 00000002 ms
+Total Time Cost: 00004936 ms
+Total Distance 4: 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Last Time Cost: 00000003 ms
+Total Time Cost: 00004939 ms
+Total Distance 3: 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Last Time Cost: 00000001 ms
+Total Time Cost: 00004940 ms
+Total Distance 2: 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Last Time Cost: 00000001 ms
+Total Time Cost: 00004941 ms
+Total Distance 1: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Last Time Cost: 00000000 ms
+Total Time Cost: 00004941 ms
+Total Distance 0: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
