@@ -1,9 +1,119 @@
-# bp-gpu-slp
+# GPU Accelerated BP Algorithm Implementation
+
+## Author
+
+Xiao Huang, Chao Sun, Ge Wu and Liquan Chen.
+
+## Compile command
+Basic command
+```bash
+nvcc -O3 BP_gpu9_max8.cu -DRUNTIME=1 -o bpapp
+nvcc -O3 A1_gpu9_max8.cu -DRUNTIME=1 -o a1app
+nvcc -O3 A2_gpu9_max8.cu -DRUNTIME=1 -o a2app
+```
+Users can change the value `RUNTIME` to other values to run the algorithm multiple times. For example:
+```bash
+nvcc -O3 BP_gpu9_max8.cu -DRUNTIME=10 -o bpapp
+```
+Then the BP algorithm will run ten times for the input matrix.
+
+For BP-LSL implementation, an additional compile-time parameter `MAXDEPTH` is introduced to restrict the search depth. If left unspecified during compilation, the depth limit defaults to 56 (unlimited logic is bound to this constant). As BP-LSL cannot guarantee a reduction of total distance in every iteration, the solver may fail to converge. To mitigate this, you may adjust the macro `MAXM` at compile time, whose default value is 6500.
+
+```bash
+# Limit the maximum solving depth to 5
+nvcc BP_LSL19_test7_free_real.cu -O3 -DRUNTIME=1 -DMAXDEPTH=5 -o slpd5
+
+# Limit the maximum solving depth to 5, run 100 trials, and set the maximum BASE count to 16000
+nvcc BP_LSL19_test7_free_real.cu -O3 -DRUNTIME=100 -DMAXDEPTH=5 -DMAXM=16000 -o slpd5_16k
+```
 
 
 
-Experimantal data for "GPU Acceleration for Boyar-Peralta Algorithm in High Dimensional Linear Layers"
+## Usage
+### Input matrix in the command line
+```bash
+./bpapp 
+```
+Then the program will read the dimension of the matrix $n$ (max:64) at the first line. After input $n$, the user have to input an $n\times n$ matrix manually. 
 
-implementation code will be available **in 20 days** after publish confirmed.
+Input Data Constraint:
++ Must be an $n\times n$ full-rank matrix over $\mathbb F_2$.
++ Row hamming weight should not over 17.
++ Density no more than $0.5$
 
-**Update:** 20261015 it seems that 2026-3 publishes very late this time(?)
+> NOTE: **Our program does not check the input matrix** 
+> 
+> It only gives the correct result if the input is an invertible matrix over $\mathbb F_2$. 
+> 
+> For example, if the user inputs an invalid matrix (e.g., the number $2$ in a 0/1 matrix, or the input matrix is ​​not an invertible matrix over $\mathbb F_2$, the program will run with an undefined result.
+
+
+### Input Format
+```
+22
+1 1 1 0 1 0 1 1 0 0 0 1 1 0 0 0 0 0 1 1 1 0
+1 0 1 0 1 1 0 0 0 1 0 1 0 0 0 1 0 1 0 1 1 1
+0 0 1 0 0 1 1 1 0 0 1 1 1 0 0 1 1 0 1 0 1 0
+1 1 1 1 1 0 0 1 0 0 1 0 1 1 0 0 0 1 0 1 0 0
+1 0 1 1 1 1 0 0 0 1 0 1 0 0 1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 0 0 1 0 0 0 1 1 1 1 0 0 0 1 0
+0 0 1 0 0 1 0 1 0 1 0 1 0 1 1 1 0 0 1 0 0 0
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 0 1 1 0 1 0 1
+0 1 1 0 0 0 0 1 1 1 0 0 0 1 1 0 0 0 0 1 0 1
+1 1 0 1 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 1 0 0
+1 0 1 0 1 1 1 1 0 1 1 0 0 0 0 0 0 0 1 1 0 0
+0 1 1 0 1 0 1 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0
+0 0 0 1 1 0 0 0 1 0 1 0 0 0 0 1 0 1 1 1 1 1
+0 1 0 0 1 0 1 0 0 1 0 0 1 0 1 1 1 0 1 0 0 1
+0 0 0 1 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 0 0 0
+1 0 1 1 0 1 1 1 1 0 1 0 0 0 0 0 1 0 0 1 0 0
+0 0 1 1 1 1 1 0 1 1 0 0 0 0 0 1 0 1 0 0 1 0
+0 0 0 0 0 1 1 0 0 1 0 1 1 0 1 1 0 1 0 1 0 1
+1 0 1 1 1 0 1 0 1 0 0 1 0 1 1 0 0 1 0 0 0 0
+0 0 1 1 1 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1
+0 1 1 1 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 1 1
+0 0 0 1 1 1 0 1 1 1 0 1 0 1 0 0 1 0 0 1 0 0
+
+```
+
+### Input matrix from the file
+```bash
+./bpapp Filename
+```
+For example, if run `./bpapp 1.txt`, the program will read the matrix from the file 1.txt
+
+### Output File
+When running the program, it will give two files for each call of the function `dealBP10()`:
+
+```
+RecordM22_10_1.txt-1-99c7c7.ans
+RecordM22_10_1.txt-1-99c7c7.log
+```
+
+`.ans`: The g-Xor sequence of the input matrix. In this file, each line has 4 values $m,a,b,t$. It means $\mathbf x_m\gets \mathbf x_a\oplus \mathbf x_b$. If $t=-1$, then $\mathbf x_m$ equals to the target value $\mathbf y_t$; otherwise, $\mathbf x_m$ is just a intermediate value.
+
+`.log`: Record the program's execution time and distance vector for debugging purposes.
+
+For BP-LSL, a `.bns` file will also be generated. It stores intermediate random exploration steps produced during program execution and can be ignored in practice.
+
+
+## Data Generatior
+### Compile
+```bash
+g++ data_Generator.cpp -o datagen
+```
+### Usage
+```bash
+./datagen dimension row_weight [seed=1]
+```
+Example: `./datagen 22 10 3` means that generate a 32-dimensional full-rank matrix ($n=22$), with row Hamming weight around 10 ($w=10\pm 1$) and use random seed $s=3$. If the seed value omitted, like `./datagen 22 10`, then it use default seed $s=1$.
+
+To guarantee the matrix be ​​invertible, the Hamming weight of the first $\lfloor \frac n 4\rfloor$ rows is $w+1$, the Hamming weight of the next $\lfloor\frac n 4 \rfloor$ rows is $w-1$, and the Hamming weight of the remaining rows is $w$.
+
+The program uses the C++ mt19937 as a random number generator and uses the rejection sampling method to generate the matrix.
+
+The input format above is generated by `./datagen 22 10`, readers can check it on their own computers to check if it generates the same matrix as it is. Theoretically, using the same $n,w,s$ value will generate the same matrix.
+
+## Additional information
+
+The code in this GitHub repository solves Problem 1 (the Shortest Linear Program Problem) of the 2025 National Crypto-Math Challenge and achieved 3rd place for this problem, corresponding to the Second Prize in the national final. This paper is built upon our competition solution, which we refined and extended after the contest. We thank the competition organizers for their insights and the reviewers for their constructive comments that greatly inspired our work.
