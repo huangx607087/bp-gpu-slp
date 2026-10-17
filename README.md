@@ -96,6 +96,8 @@ RecordM22_10_1.txt-1-99c7c7.log
 
 For BP-LSL, a `.bns` file will also be generated. It stores intermediate random exploration steps produced during program execution and can be ignored in practice.
 
+In BP-LSL's `.ans` file, each line has 5 values: $m,a,b,t,d$, with $d$ being the depth of the value $\mathbf x_m$.
+
 
 ## Data Generatior
 ### Compile
